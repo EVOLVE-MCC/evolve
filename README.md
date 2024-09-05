@@ -1,4 +1,4 @@
-Simple Website for Evolve
+Simple Website for our Student Community
   
 
 
